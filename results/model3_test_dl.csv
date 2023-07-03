@@ -1,0 +1,3 @@
+,accuracy,precision,recall,f1
+text_cnn,0.68,0.7,0.68,0.67
+lstm,0.69,0.69,0.69,0.68
