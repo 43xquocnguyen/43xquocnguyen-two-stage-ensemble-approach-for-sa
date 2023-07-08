@@ -9,7 +9,9 @@ I apply a two-stage ensemble approach for sentiment analysis including 7 classes
 
 Fig. below shows my framework.
 
-![workflow](imgs/framework.png)
+<div style="text-align: center;">
+  <img src="imgs/framework.png" alt="workflow"/>
+</div>
 
 ## Experimental Results
 After the experiment, my framework with `SVM + SVM + TextCNN` got the highest result with 50% __accuracy__, 1% higher than the baseline model.
