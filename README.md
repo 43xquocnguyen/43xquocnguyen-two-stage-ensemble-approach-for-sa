@@ -1,6 +1,6 @@
 # Two-stage Ensemble Approach for Sentiment Analysis
 
-## Framework
+## My Framework
 I apply a two-stage ensemble approach for sentiment analysis including 7 classes on the dataset UIT-VSMEC. That dataset is the first dataset for sentiment analysis on Vietnamese comments published in 2019.
 - Stage 1: Classify the comment as negative or not.
     - Group 1 (Negative): _Anger_, _Disgust_, _Sadness_ and _Fear_
@@ -9,7 +9,7 @@ I apply a two-stage ensemble approach for sentiment analysis including 7 classes
 
 Fig. below shows my framework.
 
-[workflow](imgs/framework.png)
+![workflow](imgs/framework.png)
 
 ## Experimental Results
 After the experiment, my framework with `SVM + SVM + TextCNN` got the highest result with 50% __accuracy__, 1% higher than the baseline model.
