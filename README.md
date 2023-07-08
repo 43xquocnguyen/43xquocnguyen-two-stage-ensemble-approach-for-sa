@@ -14,7 +14,7 @@ Fig. below shows my framework.
 </p>
 
 ## Experimental Results
-After the experiment, my framework with `SVM + SVM + TextCNN` got the highest result with 50% __accuracy__, 1% higher than the baseline model.
+After the experiment, my framework with `SVM + SVM + TextCNN` got the highest result with 50% __accuracy__, 1% higher than the baseline model. The `results/` folder contains all the results of each phased model as csv on both the validation set and the test set.
 
 ## Resource & References
 - The dataset I got from __UIT-VSMEC__ can be accessed:
